@@ -89,7 +89,7 @@ This is a list of guides and resources to help you get started with the gpt-oss 
 - [Unsloth examples](https://docs.unsloth.ai/basics/gpt-oss-how-to-run-and-fine-tune)
 
 ### Reinforcement Learning
-- [Make gpt-oss play the 2048 game](https://github.com/openai/gpt-oss/blob/main/examples/reinforcement-fine-tuning.ipynb)
+- [Auto solving the 2048 game](https://github.com/openai/gpt-oss/blob/main/examples/reinforcement-fine-tuning.ipynb)
 
 ## Contributing
 
