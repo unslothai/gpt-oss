@@ -35,7 +35,7 @@ This is a list of guides and resources to help you get started with the gpt-oss 
   - [Running gpt-oss on STX Halo and Radeon dGPUs using Lemonade](https://lemonade-server.ai/news/gpt-oss.html)
 - llama.cpp
   - [Running gpt-oss with llama.cpp](https://github.com/ggml-org/llama.cpp/discussions/15396)
-  - [Running gpt-oss dynamic quants](https://docs.unsloth.ai/new/gpt-oss-how-to-run-and-fine-tune#run-gpt-oss-20b)
+  - [Running gpt-oss dynamic Unsloth quants](https://docs.unsloth.ai/new/gpt-oss-how-to-run-and-fine-tune#run-gpt-oss-20b)
 
 ### Server
 
@@ -71,7 +71,7 @@ This is a list of guides and resources to help you get started with the gpt-oss 
   - Deploy via Tensorfuse: [Deploy gpt-oss for both 20b and 120b models on AWS EKS](https://tensorfuse.io/docs/guides/modality/text/openai_oss)
   - [AWS launch blog post](https://aws.amazon.com/blogs/aws/openai-open-weight-models-now-available-on-aws/)
 - Google Colab
-  - [gpt-oss 20b MXFP4 inference](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/GPT_OSS_MXFP4_(20B)-Inference.ipynb)
+  - [gpt-oss 20b MXFP4 inference notebook](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/GPT_OSS_MXFP4_(20B)-Inference.ipynb)
 
 ## Examples & Tutorials
 
@@ -89,7 +89,7 @@ This is a list of guides and resources to help you get started with the gpt-oss 
 - [Unsloth examples](https://docs.unsloth.ai/basics/gpt-oss-how-to-run-and-fine-tune)
 
 ### Reinforcement Learning
-- [Unsloth examples](https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning)
+- [Unsloth RL examples](https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning)
 - [2048 game with gpt-oss 20b](https://colab.research.google.com/github/openai/gpt-oss/blob/main/examples/reinforcement-fine-tuning.ipynb)
 - [Auto generated kernels with gpt-oss 20b](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/gpt-oss-(20B)-GRPO.ipynb)
 
